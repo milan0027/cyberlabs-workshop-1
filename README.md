@@ -1,1 +1,1 @@
-# cyberlasb-workshop-1
+# cyberlabs-workshop-1
