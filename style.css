@@ -1,0 +1,89 @@
+/* UNIVERSAL SELECTOR - selects all the elements present in our HTML */
+/* *{
+    color: magenta;
+} */
+h1{
+    /* color: red; */
+    /* color: rgb(0, 255, 42); */
+    /* color: rgb(255,0,0); */
+    /* color: rgb(0,255,0); */
+    /* color: rgb(228, 146, 70); */
+    border: 10px dotted magenta;
+}
+
+p{
+   color: purple;
+   /* background-color: yellow;  */
+   /* background-image: url('background.jpg'); */
+}
+#first-para{
+    background-color: yellow;
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-style: italic;
+    width: 500px;
+    height: 500px;
+    border: 5px solid red;
+    /* padding: 50px; */
+    /* padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px; */
+    padding: 10px 20px 40px 50px;
+    /* top, right, bottom, left */
+    margin-left: 50px;
+    margin: 50px 100px 50px 100px;
+}
+.para{
+    /* background-color: red; */
+    color: black;
+}
+#heading-bottom{
+    background-color: cyan;
+    color: red;
+}
+#first-heading{
+    color: red;
+    color: blue;
+    text-align: center;
+}
+#bold-span{
+    color: blue;
+    font-weight: 900;
+    text-decoration: underline;
+    font-style: italic;
+}
+#second-para{
+    /* line-height: 10px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* FONT STACK */
+}
+/* div{
+
+}
+a{
+
+}
+span{
+
+} */
+
+/* 
+    Priority Order - 
+        Inline styles > Style > External stylesheet
+*/
+
+/* 
+    Preferred Order - 
+        External stylesheet > style > Inline styles
+*/
+
+/* 
+    RGB COLOUR SYSTEM - 
+        rgb(channel1, channel2, channel3)
+        channel1 - red
+        channel2 - green
+        channel3 - blue
+        range - [0-255]
+
+*/
